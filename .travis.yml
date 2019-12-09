@@ -1,1 +1,2 @@
 language: python
+script: pythion -m unittest discover 
